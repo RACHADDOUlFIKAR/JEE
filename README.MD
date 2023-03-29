@@ -19,7 +19,7 @@
 <h5 style="padding-left:30px;color:green"> 2. Affichage</h5>
 <img src="capture/scoreInf.png">
 <h3>7 . Basculer de h2database vers mySql </h3>
-<img src="capture/sq.png">
+<img src="capture/Sq.png">
 
 
 
